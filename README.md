@@ -25,8 +25,8 @@ To Implement ELGAMAL ALGORITHM
 
 ## Program:
 ```
-NAME: ABINAV AADITYA
-REG_NO: 212224040008
+NAME: MITHUN KUMAR.G
+REG_NO: 212224230160
 
 #include <stdio.h>
 #include <math.h>
@@ -81,10 +81,10 @@ int main() {
 }
 ```
 
-
 ## Output:
+
 ![image](https://github.com/user-attachments/assets/813887ff-24fd-41ce-90e1-f90c22185a8a)
 
-
 ## Result:
+
 The program is executed successfully.
